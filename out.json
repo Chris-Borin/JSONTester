@@ -1,0 +1,11 @@
+
+{"year":2000,"make":"Ford","model":"Mustang","odometer":0,"engineLiters":1.5}
+{"year":2020,"make":"Toyota","model":"Rav4","odometer":100000,"engineLiters":1.5}
+{"year":2000,"make":"Honda","model":"Civic","odometer":123456,"engineLiters":1.5}
+{"year":1997,"make":"Subaru","model":"Outback","odometer":454540,"engineLiters":1.5}
+{"year":2005,"make":"Ford","model":"F150","odometer":500000,"engineLiters":1.5}
+{"year":2000,"make":"Ford","model":"Mustang","odometer":0,"engineLiters":.5}
+{"year":2020,"make":"Toyota","model":"Rav4","odometer":100000,"engineLiters":1.5}
+{"year":2000,"make":"Honda","model":"Civic","odometer":123456,"engineLiters":1.5}
+{"year":1997,"make":"Subaru","model":"Outback","odometer":454540,"engineLiters":1.5}
+{"year":2005,"make":"Ford","model":"F150","odometer":500000,"engineLiters":1.5}

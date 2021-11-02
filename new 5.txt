@@ -1,0 +1,10 @@
+Screenshots
+	about box from Eclipse
+	console when executing the HelloWorld class 
+		call sayHello with an instance of the class
+	console when running the Person class
+	start/drive/stop the car
+	setting breakpoints
+	inspecting variables
+	stepping
+	inspecting call stack

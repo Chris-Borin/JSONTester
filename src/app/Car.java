@@ -94,6 +94,12 @@ public class Car {
 	public void setEngineLiters(double engineLiters) {
 		this.engineLiters = engineLiters;
 	}
+
+	@Override
+	public String toString() {
+		return "Car [year=" + year + ", make=" + make + ", model=" + model + ", odometer=" + odometer
+				+ ", engineLiters=" + engineLiters + "]";
+	}
 	
 	
 	
